@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shehan</h1>
-<img src="https://github-profile-trophy.vercel.app/?username=shehan1652" alt="shehan1652" />
+<img src="https://github.com/Shehan1652/Shehan1652/blob/main/banner.png" alt="header banner" />
 <h3 align="center">A undergraduate self thought full-stack developer from Sri Lanka</h3>
 
 
