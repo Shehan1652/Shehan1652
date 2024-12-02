@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> I'm Shehan</h1>
 <img src="https://github.com/Shehan1652/Shehan1652/blob/main/banner.png" alt="header banner" />
 <h3 align="center">A undergraduate full-stack developer from Sri Lanka</h3>
-<br>
 
 <h4 text:justify: inter-word >I am a seasoned software developer with over a decade of experience in Java programming. I have extensive expertise in database development using SQL and a solid understanding of software patterns and practices. With commercial experience spanning the full software lifecycle, I bring a meticulous attention to detail to every project 
 <br><br>
