@@ -6,6 +6,7 @@
 <br><br>
 Proficient in using Git for source control, I excel in collaborative environments, working seamlessly with international teams. Known for my supportive, friendly, and hardworking nature, I am committed to continuous learning through coaching, on-the-job training, and attending conferences </h4>
 
+
 <br>
 
 <h2> My Trophies <img src="https://emoji.discadia.com/emojis/e6c0ee26-1d9d-4fbe-9273-e93c21a21569.gif" width="25"/></h2> 
